@@ -6,4 +6,4 @@
 
 Only Supported with IOS.
 
-A low poly model of Trump appears when scanning a dollar bill. Controllable with Joystick that appears on bottom end of screen.
+A low poly model of Trump appears when scanning a dollar bill. Trump figure is controllable through on screen Joystick icon that will appear on bottom end of screen. Project is a simple demo of utilising AR controls.
